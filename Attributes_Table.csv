@@ -1,0 +1,50 @@
+"","X","id","name","Age.Class","Age.Group","Sex","Rank","Hair.pattern","Tool.user","n_Focals","Focal.Effort"
+"1",1,"Asg","Asurgai","Adult","> 5.5","M",5,NA,"Yes",72,21600
+"2",2,"Chg","Chang","Subadult","3.5 - 4.5","M",11,2,"Yes",70,21000
+"3",3,"Chk","Chohk","Juvenile","2.5 - 3.5","M",17,3,"Yes",75,22500
+"4",4,"Chl","Chalaam","Adult","> 5.5","M",4,NA,"Yes",66,19800
+"5",5,"Cht","Chaihart","Subadult","3.5 - 4.5","F",22,NA,"Yes",61,18407
+"6",6,"Dam","Dam","Juvenile","1.5 - 2.5","F",18,2,"No",71,21300
+"7",7,"Dto","Dtao","Subadult","3.5 - 4.5","M",9,3,"Yes",69,20700
+"8",8,"Fgn","Fangnaam","Juvenile","1.5 - 2.5","M",20,2,"Yes",70,21000
+"9",9,"Fhn","Fohn","Adult","> 5.5","F",14,2,"No",151,45300
+"10",10,"Grb","Grabain","Subadult","4.5 - 5.5","M",7,3,"Yes",49,14700
+"11",11,"Hee","Heen","Subadult","3.5 - 4.5","M",8,2,"Yes",79,23449
+"12",12,"Hep","Hep","Adult","> 5.5","F",17,2,"Yes",144,43239
+"13",13,"Hgp","Hoigap","Subadult","3.5 - 4.5","M",14,NA,"Yes",68,20400
+"14",14,"Hkr","Hoikrang","Juvenile","2.5 - 3.5","F",20,3,"No",66,19730
+"15",15,"Hmp","Hoimalangpu","Juvenile","1.5 - 2.5","F",21,2,"No",65,19500
+"16",16,"Htk","Hoitak","Subadult","3.5 - 4.5","F",19,2,"Yes",65,19500
+"17",17,"Jan","Jan","Adult","> 5.5","F",8,2,"Yes",71,21300
+"18",18,"Jgr","Jingrit","Juvenile","1.5 - 2.5","M",22,3,"No",73,21900
+"19",19,"Jsl","Jonesalat","Adult","> 5.5","M",15,3,"No",62,18600
+"20",20,"Kmk","Kaimook","Adult","> 5.5","F",2,3,"Yes",85,25500
+"21",21,"Kmy","Kamoy","Subadult","4.5 - 5.5","M",2,3,"Yes",59,17700
+"22",22,"Kng","Kung","Juvenile","1.5 - 2.5","M",18,2,"Yes",65,19500
+"23",23,"Krb","Krabi","Adult","> 5.5","M",13,2,"Yes",23,6900
+"24",24,"Krg","Kangrang","Adult","> 5.5","M",10,3,"Yes",60,18000
+"25",25,"Kwg","Kwang","Adult","> 5.5","F",10,2,"Yes",166,49800
+"26",26,"Kwn","Kwan","Subadult","4.5 - 5.5","M",3,2,"Yes",45,13500
+"27",27,"Lhm","Lohm","Adult","> 5.5","F",7,2,"Yes",69,20700
+"28",28,"Mgp","Mengaprun","Adult","> 5.5","M",12,NA,"No",64,19200
+"29",29,"Moo","Moo","Juvenile","2.5 - 3.5","M",23,2,"Yes",73,21900
+"30",30,"Mrk","Mork","Adult","> 5.5","F",3,2,"Yes",136,40800
+"31",31,"Mty","Maintalay","Juvenile","1.5 - 2.5","F",13,2,"No",67,20100
+"32",32,"Nak","Naak","Juvenile","2.5 - 3.5","M",19,3,"Yes",73,21900
+"33",33,"Nee","Neem","Adult","> 5.5","F",9,2,"No",67,20100
+"34",34,"Ngk","Nguak","Adult","> 5.5","F",23,3,"No",72,21600
+"35",35,"Ngr","Nangrohm","Adult","> 5.5","F",25,2,"Yes",124,37200
+"36",36,"Nhk","Nohk","Subadult","4.5 - 5.5","F",6,3,"Yes",187,56124
+"37",37,"Nms","Nomsao","Adult","> 5.5","F",11,2,"Yes",75,22500
+"38",38,"Noi","Noi","Adult","> 5.5","F",24,2,"Yes",67,20103
+"39",39,"Nrk","Narak","Juvenile","1.5 - 2.5","F",26,3,"No",73,21900
+"40",40,"Pet","Pet","Adult","> 5.5","F",1,2,"Yes",72,21600
+"41",41,"Pla","Pla","Adult","> 5.5","F",15,NA,"No",94,28200
+"42",42,"Pld","Pladao","Juvenile","1.5 - 2.5","F",12,2,"Yes",73,22245
+"43",43,"Plw","Plawan","Subadult","4.5 - 5.5","M",1,2,"Yes",62,18600
+"44",44,"Poo","Poo","Adult","> 5.5","F",4,3,"No",89,26700
+"45",45,"Pri","Priang","Juvenile","1.5 - 2.5","M",21,2,"No",71,21300
+"46",46,"Som","Som","Juvenile","2.5 - 3.5","M",16,NA,"No",67,20100
+"47",47,"Suy","Suay","Adult","> 5.5","F",16,3,"No",67,20100
+"48",48,"Yak","Yak","Adult","> 5.5","M",6,3,"No",61,18300
+"49",49,"Yng","Ying","Adult","> 5.5","F",5,2,"No",87,26100
